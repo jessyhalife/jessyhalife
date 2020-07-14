@@ -1,5 +1,7 @@
-### Hi there 👋
-Software Engineer
+### Hello World 👋
+I'm a Software Engineer
+
+🔭  Working on Health SW
 
 📫  Reach me @ jessyhalife 
 <!--
