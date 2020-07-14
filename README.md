@@ -1,8 +1,7 @@
 ### Hi there 👋
 Software Engineer
-Currently working on lab-health area
 
-Reach me @ jessyhalife 
+📫  Reach me @ jessyhalife 
 <!--
 **jessyhalife/jessyhalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
