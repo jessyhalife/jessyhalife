@@ -2,7 +2,6 @@
 
 I'm a Fullstack Software Engineer
 
-.NET, nodejs, React.js, ...
 
 🔭 Working on Health Software
 
