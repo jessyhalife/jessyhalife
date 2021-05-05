@@ -1,8 +1,9 @@
 ### Hello World 👋
-I'm a Software Engineer
+I'm a Fullstack Software Engineer
 
-🔭  Working on Health SW
+🔭 I’m currently working on Health 
 
+😄 Pronouns: She/Her
 📫  Reach me @ jessyhalife 
 <!--
 **jessyhalife/jessyhalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
