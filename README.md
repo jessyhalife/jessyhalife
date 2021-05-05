@@ -1,7 +1,12 @@
 ### Hello World 👋
+
 I'm a Fullstack Software Engineer
 
-🔭 I’m currently working on Health 
+.NET, nodejs, React.js, ...
+
+🔭 Working on Health Software
+
+🌱 Learning Typescript
 
 😄 Pronouns: She/Her
 
