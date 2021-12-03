@@ -2,14 +2,14 @@
 
 I'm a Fullstack Software Engineer
 
-
-🔭 Working on Health Software
-
-🌱 Learning Typescript
+:kite: currently working @ Aerolab
 
 😄 Pronouns: She/Her
 
 📫  Reach me @ jessyhalife 
+
+🕸️ or check my website https://jessyha.life 
+
 <!--
 **jessyhalife/jessyhalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
