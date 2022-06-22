@@ -8,7 +8,7 @@ I'm a Fullstack Software Engineer
 
 📫  Reach me @ jessyhalife 
 
-🕸️ or check my website https://jessyha.life 
+🕸️ or check my website https://jessyhalife.me
 
 <!--
 **jessyhalife/jessyhalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
